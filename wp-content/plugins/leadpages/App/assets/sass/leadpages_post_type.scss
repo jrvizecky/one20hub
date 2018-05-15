@@ -1,0 +1,200 @@
+/********************
+Leadpage Create Page
+********************/
+
+#leadpage-create {
+  font-family: 'Roboto', Arial;
+  background-color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  .ui-title-nav__content {
+    font-size: 25px;
+    font-family: 'Roboto';
+    font-weight: 500;
+  }
+  .lp-icon {
+    font-size: 30px;
+  }
+}
+
+.select2-search{
+  border-bottom:1px solid #ccc !important;
+}
+.select2-search__field{
+  border-radius: 5px !important;
+  padding: 6px !important;
+}
+.select2-selection__rendered, .select2-results__option{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Roboto", Arial, san-serif;
+}
+
+#leadpages-header-wrapper {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  height: 75px;
+  border-bottom: 1px solid #B1BACC;
+}
+#leadpages-footer-wrapper {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  height: 75px;
+  border-top: 1px solid #B1BACC;
+}
+
+.leadpages-edit-body {
+  .header_text{
+    padding-left:4px;
+    font-weight: 500;
+  }
+  max-width:920px;
+  width:100%;
+  margin-top: 20px;
+  padding-bottom: 50px;
+  h1, h2, h3, h4 {
+    font-family: "Roboto", Arial, san-serif;
+    font-weight: 700;
+  }
+  h3{
+    font-size: 14px !important;
+  }
+  p {
+    font-weight: 400;
+    font-family: "Roboto", Arial, san-serif;
+  }
+  .leadpages-loading{
+    margin-top:12px;
+    margin-bottom:12px;
+    .ui-loading{
+      margin-left:auto;
+      margin-right:auto;
+    }
+  }
+  .section_description{
+    max-width: 470px;
+    width:100%;
+  }
+  .select_a_leadpage{
+    //flex-direction: column;
+    position: relative;
+    padding: 0px 0px 9px 16px;
+  }
+  .sync-leadpages{
+    display: none;
+    height:24px !important;
+    width: 24px !important;
+    color: #0069FF !important;
+  }
+  .sync-leadpages::before{
+    font-size:24px !important;
+    position: relative;
+    top:-10px;
+    cursor: pointer;
+  }
+
+  .leadpages_search_container{
+    width:100%;
+    max-width:480px;
+    padding:0;
+    flex-direction: column;
+
+    #leadpages_my_selected_page select{
+      height:100%;
+      max-height: 269px;
+      width:100%;
+      max-width:500px;
+      border:0px;
+      outline:0px;
+
+    }
+  }
+
+  .leadpage_type_container{
+    padding-left:0px !important;
+    margin-left: 0px !important;
+  }
+  .select_a_leadpage_type{
+    margin-top:5px;
+    width:100%;
+  }
+  .leadpage_type_box{
+    height: 203px;
+    width:184px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    padding: 12px;
+    &:first-of-type{
+      margin-left: 12px;
+    }
+    &:not(:first-of-type){
+      margin-left:20px;
+    }
+    .header{
+      font-size: 14px;
+      font-weight: 400;
+      text-transform: uppercase;
+    }
+    p{
+      font-size:14px;
+      line-height: 15px;
+      font-weight: 400;
+      padding-bottom:25px;
+      height: 90px;
+    }
+  }
+  .leadpage_slug_container{
+    padding-left:0px !important;
+  }
+  .leadbox_slug{
+    margin-top:30px;
+    .lp_site_main_url{
+      display: inline-block;
+      height:36px;
+      font-size:14px;
+      font-weight: 200;
+      line-height: 16px;
+      background-color:#F5F7F9;
+      border: 1px solid #B1BACC;
+      border-right:none;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      padding: 10px;
+      margin-left: 12px;
+    }
+    .leadpages_slug_input{
+      border: 1px solid #B1BACC;
+      font-size:14px;
+      line-height: 36px;
+      height:37px;
+      max-width:500px;
+      width:100%;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      margin-left:-5px;
+    }
+  }
+  .leadpage-slug-instructions{
+    margin-left:30px;
+    margin-top:0px;
+    list-style-type: disc;
+    li ul{
+      margin-left:10px;
+      list-style-type: circle;
+    }
+  }
+}
+
+@media screen and(max-width: 655px) {
+  .leadpages-edit-body {
+    .select-a-leadpage {
+      &:after {
+        right: 35px;
+        position: absolute;
+        top: 48px;
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+.toplevel_page_Leadboxes #wpbody-content{
+  background-color: #F1F1F1;
+  margin-left:-20px;
+}
+#leadbox-configure {
+  width:1000px;
+  height:900px;
+  margin-top:20px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color: #F1F1F1;
+  .ui-title-nav__content {
+    font-size: 25px;
+    font-family: 'Roboto';
+    font-weight: 500
+  }
+  .lp-icon{
+    font-size:30px !important;
+  }
+
+  #leadpages-header-wrapper{
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.32);
+    border:none;
+    padding:20px;
+    height:195px;
+    background-color: #fff;
+    #leadbox_header{
+      margin-left:0px;
+      margin-right:0px;
+    }
+    hr{
+      margin: 20px 0;
+    }
+    p, a{
+      font-size: 16px;
+      line-height: 24px;
+      color: #797F89;
+      width: 700px;
+    }
+    a{
+      color:#000 !important;
+    }
+  }
+
+  .leadbox-config-wrapper{
+    display: flex;
+    margin-top:16px;
+    justify-content: space-between;
+  }
+  .leadbox-container{
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.32);
+    width: 490px;
+    padding:20px;
+    background-color: #fff;
+    select{
+      width:407px;
+    }
+    .dashicons-image-rotate{
+      color: #0069FF;
+      cursor: pointer;
+    }
+    h3{
+      font-size:16px;
+      line-height:24px;
+      font-weight:500;
+      color:#000;
+    }
+    p{
+      font-size: 14px;
+      line-height:20px;
+      color: #797f89;
+    }
+    .leadbox-stats{
+      li{
+        margin-top:0px;
+        margin-bottom:5px;
+        font-size:13px;
+        line-height:16px;
+      }
+    }
+    .timedLeadboxScript, .exitLeadboxScript{
+      display: flex;
+      flex-direction: column;
+      margin-top:16px;
+      label{
+        margin-bottom: 8px;
+      }
+      textarea{
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        resize: none;
+        font-size: 13px;
+      }
+    }
+  }
+}

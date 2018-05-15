@@ -1,0 +1,1 @@
+jQuery(function(){var e=jQuery(".site-branding,.secondary-nav,.category-nav");jQuery(window).scroll(function(){jQuery(window).scrollTop()>=150?e.addClass("scroll"):e.removeClass("scroll")})}),jQuery(document).ready(function(){jQuery("div.sfm-va-middle span").each(function(){jQuery(this).replaceWith(jQuery(this).text())})});

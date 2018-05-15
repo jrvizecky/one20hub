@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP RSS Aggregator\n"
+"POT-Creation-Date: 2015-04-15 18:58+0800\n"
+"PO-Revision-Date: 2015-04-15 18:58+0800\n"
+"Last-Translator: Eric Suiker <esuiker@hotmail.com>\n"
+"Language-Team: WP RSS Aggregator <info@wprssaggregator.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/wprss-ftr-messages.php:12
+#, php-format
+msgid ""
+"The WP RSS Aggregator - Full Text RSS add-on requires WordPress version %s or "
+"higher"
+msgstr ""
+"De WP RSS Aggregator - Full Text RSS add-on werkt met ​​WordPress versie% s of "
+"hoger"
+
+#: ../includes/wprss-ftr-messages.php:26
+#, php-format
+msgid ""
+"The <strong>WP RSS Aggregator - Full Text RSS</strong> add-on requires the WP "
+"RSS Aggregator plugin to be installed and activated, at version <strong>%s</"
+"strong> or higher."
+msgstr ""
+"De <strong>WP RSS Aggregator - Full Text RSS</strong> add-on verlangt dat de "
+"WP RSS Aggregator plugin wordt geïnstalleerd en geactiveerd, met <strong>versie"
+"% s</strong> of hoger."
+
+#: ../includes/wprss-ftr-messages.php:41
+#, php-format
+msgid ""
+"The <strong>WP RSS Aggregator - Full Text RSS</strong> add-on requires the WP "
+"RSS Aggregator - Feed to Post plugin to be installed and activated, at version "
+"<strong>%s</strong> or higher."
+msgstr ""
+
+#: ../includes/wprss-ftr-messages.php:54
+msgid ""
+"The license key for the <strong>WP RSS Aggregator - Full Text RSS</strong> add-"
+"on is not activated. Without an activated license, the add-on will not be able "
+"to import full content for your RSS feeds. "
+msgstr ""
+"De licentiesleutel voor de <strong>WP RSS Aggregator - Full Text RSS</strong> "
+"add-on is niet geactiveerd. Zonder een geactiveerde licentie, zal de add-on "
+"niet in staat zijn om de volledige inhoud te importeren voor uw RSS-feeds."
+
+#: ../includes/wprss-ftr-messages.php:56
+msgid "Activate your license key"
+msgstr "Activeer uw licentiesleutel"
+
+#: ../includes/wprss-ftr-settings.php:28
+msgid ""
+"WPRSS_FTR_Settings class is singleton class, and cannot be instantiated more "
+"than once!"
+msgstr ""
+"WPRSS_FTR_Settings klasse is een singleton klasse, en kan niet meer dan één "
+"keer worden gebruikt!"
+
+#: ../includes/wprss-ftr-settings.php:65
+msgid "Premium Full Text Service"
+msgstr "Premium Full Text Service"
+
+#: ../includes/wprss-ftr-settings.php:90
+msgid "Full Text RSS License"
+msgstr "Full Text RSS licentie"
+
+#: ../includes/wprss-ftr-settings.php:97
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: ../includes/wprss-ftr-settings.php:105 ../includes/wprss-ftr-settings.php:142
+msgid "Activate License"
+msgstr "Licentie Activeren"
+
+#: ../includes/wprss-ftr-settings.php:125
+msgid "Enter your license key"
+msgstr "Voer uw licentiesleutel in"
+
+#: ../includes/wprss-ftr-settings.php:142
+msgid "Deactivate License"
+msgstr "Deactiveer Licentie"
+
+#: ../includes/wprss-ftr-settings.php:148
+msgid "Status:"
+msgstr "Status:"
+
+#: ../wp-rss-full-text.php:128
+msgid ""
+"WPRSS_FTR class is singleton class, and cannot be instantiated more than once!"
+msgstr ""
+"WPRSS_FTR_Settings klasse is een singleton klasse, en kan niet meer dan één "
+"keer worden gebruikt!"

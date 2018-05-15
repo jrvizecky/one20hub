@@ -1,0 +1,799 @@
+[10-05-2018 21:17:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:46] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:50] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:51] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:51] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:54] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:55] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:55] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:56] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:57] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:58] [Error] WPRSS > 2:
+Sorted: 
+
+[10-05-2018 21:17:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[10-05-2018 21:17:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 18:11:33] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:11:35] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:11:36] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:11:39] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:11:39] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:11:40] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:12:34] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:12:34] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:12:34] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:12:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 18:12:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:12:45] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:12:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:12:47] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:12:48] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:12:49] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:13:02] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:13:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 18:13:35] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:13:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+
+[14-05-2018 18:13:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:13:58] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:13:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:13:59] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:13:59] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:13:59] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:00] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:00] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:00] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:01] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:01] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:02] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:02] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:02] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:03] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 18:14:08] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:08] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:09] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:09] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:10] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:10] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:10] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:10] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:11] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:11] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:12] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:12] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:12] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:13] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 18:14:13] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 18:14:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 19:13:59] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:13:59] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:13:59] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:03] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:03] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:03] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:04] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:04] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:08] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:08] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:09] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:10] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:10] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:10] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 19:14:17] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 19:14:18] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 20:16:15] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:15] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:16] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:21] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:21] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:21] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:22] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:23] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:23] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:24] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:24] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:25] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:25] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:26] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 20:16:28] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 20:16:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 22:43:06] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:09] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:09] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:13] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:13] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:13] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:22] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:22] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:26] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:26] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:27] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:27] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:29] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:30] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 22:43:34] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 22:43:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[14-05-2018 23:14:41] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:41] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:42] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:45] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:46] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:47] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:47] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:48] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:48] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:49] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:49] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:50] [Error] WPRSS > 2:
+Sorted: 
+
+[14-05-2018 23:14:50] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[14-05-2018 23:14:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 04:38:48] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:50] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:51] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:54] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:54] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:54] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:55] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:56] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:56] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:57] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:58] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:38:58] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 04:38:59] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 04:39:00] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 05:14:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:46] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:51] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:51] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:51] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:52] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:52] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:53] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:54] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:54] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:54] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:55] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:55] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 05:14:56] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 05:14:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 06:13:40] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:41] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:41] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:45] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:46] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:47] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:47] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:48] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:48] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:49] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:49] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:49] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 06:13:50] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 06:13:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 07:15:44] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:46] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:47] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:50] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:51] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:51] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:51] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:52] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:56] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:56] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:57] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:58] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 07:15:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 07:15:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 14:23:57] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:23:58] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:23:58] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:02] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:02] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:03] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:18] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:19] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:20] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:20] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:21] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:21] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:22] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:22] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 14:24:23] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 14:24:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 15:19:28] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:29] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:29] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:33] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:33] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:33] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:43] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:44] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:44] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:45] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:45] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:46] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:46] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:47] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 15:19:47] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 15:19:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 18:05:10] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:11] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:11] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:16] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:16] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:16] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:22] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:23] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:35] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:36] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:36] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:37] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:37] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:38] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:05:47] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:05:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[15-05-2018 18:17:19] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:19] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:20] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:24] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:24] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:25] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:25] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:26] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:26] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:27] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:28] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:29] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:29] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:29] [Error] WPRSS > 2:
+Sorted: 
+
+[15-05-2018 18:17:30] [Error] WPRSS > check_force_full_content:
+Failed to find a working full text rss service.
+
+[15-05-2018 18:17:31] [Error] WPRSS > 2:
+Sorted: 
+
+

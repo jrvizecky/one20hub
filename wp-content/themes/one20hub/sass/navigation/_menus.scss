@@ -1,0 +1,39 @@
+.highlight-menu {
+	width: 100%;
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 25px 0;
+		text-align: center;
+		width: 100%;
+		font-size: 16px;
+		font-weight: 100;
+		text-transform: uppercase;
+
+		li {
+			position: relative;
+			display: inline-block;
+			padding: 0 15px;
+		}
+
+		a {
+			display: block;
+			text-decoration: none;
+			color: #fff;
+			&:hover {
+				color: #9aa2ab;
+			}
+		}
+	}
+
+}
+
+body.admin-bar #shiftnav-toggle-main {
+	top: 112px !important;
+}
+#shiftnav-toggle-main {
+	position: absolute !important;
+	top: 80px!important;
+	background: #262c34 !important;
+}

@@ -1,0 +1,34 @@
+{
+    "name": "leadpages/leadpagesconnector",
+    "description": "Leadpages WordPress connector",
+    "require": {
+        "pimple/pimple": "^3.0",
+        "leadpages/leadpages-auth": "^1.2",
+        "leadpages/pages": "^1.5",
+        "leadpages/leadboxes": "^1.2",
+        "icanboogie/inflector": "^1.4",
+        "twig/twig": "~1.0",
+        "symfony/polyfill-mbstring": "^1.4"
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.2",
+        "lucatume/wp-browser": "~1.16",
+        "rmccue/requests": "dev-master as 1.6.2beta"
+    },
+    "autoload": {
+        "psr-4": {
+            "TheLoop\\": "Framework//",
+            "LeadpagesWP\\": "App//",
+            "LeadpagesMetrics\\": "App//Lib//LeadpagesMetrics//"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brandon Braner",
+            "email": "brandon.braner@ave81.com"
+        }
+    ],
+    "scripts": {
+
+    }
+}
